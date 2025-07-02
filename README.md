@@ -4,21 +4,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=tiago-souza&show_icons=true&theme=synthwave" 
-    style="width: 48%; height: 200px;" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-souza&layout=compact&langs_count=10&theme=synthwave" 
-    style="width: 48%; height: 200px;" 
-  />
-</div>
-
----
-
 ## 🛠️ Tecnologias que uso
 
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -30,7 +15,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 </div>
 
+
 ---
+
 
 ## 🌐 Contato
 
