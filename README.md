@@ -35,7 +35,7 @@
 ## 🌐 Contato
 
 <div align="center">
-  <a href="www.linkedin.com/in/tiago-souza-6761b935b/" target="_blank">
+  <a href="https://www.linkedin.com/in/tiago-souza-6761b935b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/tiagosouza.me/" target="_blank">
